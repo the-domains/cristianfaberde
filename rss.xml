@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[cristianfaber.de]]></title>
         <description><![CDATA[cristianfaber.de]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cristianfaberde/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 12:48:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 12:48:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cristianfaberde/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Winners of the 2015 iPhone Photography Awards Announced]]></title>
+            <description><![CDATA[<article><h1>Winners of the 2015 iPhone Photography Awards Announced</h1><p>NEW YORK - June 15, 2015 - The iPhone Photography Awards™ (IPPAWARDS) is proud to announce the winners of the 8th Annual Awards. They were selected from thousands of entries submitted by iPhone photographers from 120 countries around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3682134737542db758520dcb5c569d0c5b326f1d.jpg"></article>]]></description>
+            <link>http://www.ippawards.com/2015-iphone-photography-awards-winners-announced/</link>
+            <guid isPermaLink="false">ca503c74-c0b0-4be7-902e-823dfba7f8a0</guid>
+            <pubDate>Fri, 13 May 2016 12:48:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
             <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
