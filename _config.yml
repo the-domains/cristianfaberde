@@ -1,0 +1,14 @@
+layout_spectrum: 0.9067262457683682
+typography_spectrum: 0.26351668359711766
+color:
+  brandStrength: 0.22708631376735866
+  lightness: 0.3483225181698799
+  saturation: 0.1346582523547113
+  rhythmicContrast: 0.7191297702956945
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: cristianfaber.de
